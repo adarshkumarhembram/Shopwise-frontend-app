@@ -33,4 +33,7 @@ This project provides a clean and fast development setup for building scalable f
 
 ---
 
+### 🌐 Live Demo
+[👉 View Live App on Vercel](https://shopwise-frontend-app.vercel.app/)
+
 
